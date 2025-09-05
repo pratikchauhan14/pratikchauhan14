@@ -8,7 +8,7 @@
 ---
 ## 👋 About Me
 
-Hi, I’m **Pratik Chauhan**, a **HubSpot CMS expert and developer** with 8+ years of experience and founder of [2cube Studio](https://2cube.studio).
+Hi, I’m **Pratik Chauhan**, a **HubSpot CMS expert and developer** with 8+ years of experience and founder of [2CUBE Studio](https://2cube.studio).  
 I specialize in **custom HubSpot modules, dynamic pages, API integrations, and advanced CMS solutions**.  
 
 - ✅ Delivered 400+ websites and 500+ custom modules globally  
@@ -17,9 +17,7 @@ I specialize in **custom HubSpot modules, dynamic pages, API integrations, and a
 
 I help businesses build **functional, visually engaging, and efficient HubSpot websites**.  
 
-
 ---
-
 ## 🛠️ Skills
 
 - **Frontend:** HTML, CSS, JavaScript, TailwindCSS, Liquid
@@ -28,30 +26,49 @@ I help businesses build **functional, visually engaging, and efficient HubSpot w
 - **Other:** SEO, website performance optimization, accessibility
 
 ---
-
 ## 🚀 Featured Projects
+
+### [HS Toolkit Chrome Extension](https://chrome.google.com/webstore/detail/hs-toolkit/adbgdmoblkaglinaodfjjjcckcgkcecf)
+**HS Toolkit** is a Chrome extension for HubSpot that helps developers work faster and more efficiently.  
+
+**Features:**
+- Toggle HubSpot developer mode quickly  
+- Clear cache with one click  
+- Copy reusable HubL/HTML/JS snippets directly from a popup  
+
+[Chrome Web Store Link](https://chrome.google.com/webstore/detail/hs-toolkit/adbgdmoblkaglinaodfjjjcckcgkcecf)
 
 ### [HTML + HubL Formatter](https://pratikchauhan14.github.io/hubl-html-cleaner/)  
 A web-based tool to **format and clean HTML and HubL code** for HubSpot CMS.  
-✅ Proper indentation, HubL expression support, and clean output.
 
-### [HubSpot Step Form](https://pratikchauhan14.github.io/step-form/)
-A **dynamic multi-step form** built for HubSpot CMS with persistent state, inline editing, and TailwindCSS styling.  
+**Features:**
+- Proper indentation for HTML & HubL  
+- Supports inline HubL expressions and blocks  
+- Clean, readable output for HubSpot templates  
+
+### [HubSpot Step Form](https://pratikchauhan14.github.io/step-form/)  
+A **dynamic multi-step form** built for HubSpot CMS.  
+
+**Features:**
+- Persistent state across steps  
+- Inline editing support  
+- TailwindCSS styling and fully responsive  
+- Easy integration into HubSpot templates  
 
 
-### [2cube Studio](https://2cube.studio/)  
-Our agency website showcasing **custom HubSpot CMS development services**.
+### [2CUBE Studio](https://2cube.studio/)  
+Our agency website showcasing **custom HubSpot CMS development services**.  
 
 ---
-
 ## 📫 Contact Me
+
+If you want to collaborate or have any questions, feel free to reach out:  
 
 - **Email:** [pratik@2cube.studio](mailto:pratik@2cube.studio)  
 - **Website:** [https://2cube.studio](https://2cube.studio)  
 - **LinkedIn:** [Pratik Chauhan](https://www.linkedin.com/in/pratik-chauhan)
 
 ---
-
 ## ⚡ Fun Fact
 
 When I'm not coding, I enjoy exploring **new web technologies, building small tools**, and sharing knowledge about HubSpot CMS.
