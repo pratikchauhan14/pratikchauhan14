@@ -28,6 +28,20 @@ I help businesses build **functional, visually engaging, and efficient HubSpot w
 ---
 ## 🚀 Featured Projects
 
+### [Fabric.js Canvas Editor](https://pratikchauhan14.github.io/canvas-editor-public/)
+A modular, web-based **canvas editor** built with Fabric.js and TypeScript that lets you create, edit, and export graphics directly in the browser.
+
+**Features:**  
+- Draw arrows, rectangles, circles, and freehand paths (pencil)  
+- Add text with global font settings, emoji support, and color customization  
+- Apply blur effect to background images  
+- Upload and manipulate images  
+- Undo/redo with 25-level history  
+- Download canvas as JPEG or copy to clipboard  
+- Fully responsive and touch-friendly  
+
+[Live Demo](https://pratikchauhan14.github.io/canvas-editor-public/)
+
 ### [HS Toolkit Chrome Extension](https://chrome.google.com/webstore/detail/hs-toolkit/adbgdmoblkaglinaodfjjjcckcgkcecf)
 **HS Toolkit** is a Chrome extension for HubSpot that helps developers work faster and more efficiently.  
 
