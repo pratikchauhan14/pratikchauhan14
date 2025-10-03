@@ -28,7 +28,7 @@ I help businesses build **functional, visually engaging, and efficient HubSpot w
 ---
 ## 🚀 Featured Projects
 
-### [Fabric.js Canvas Editor](https://pratikchauhan14.github.io/canvas-editor-public/)
+### [1. Fabric.js Canvas Editor](https://pratikchauhan14.github.io/canvas-editor-public/)
 A modular, web-based **canvas editor** built with Fabric.js and TypeScript that lets you create, edit, and export graphics directly in the browser.
 
 **Features:**  
@@ -42,7 +42,22 @@ A modular, web-based **canvas editor** built with Fabric.js and TypeScript that 
 
 [Live Demo](https://pratikchauhan14.github.io/canvas-editor-public/)
 
-### [HS Toolkit Chrome Extension](https://chrome.google.com/webstore/detail/hs-toolkit/adbgdmoblkaglinaodfjjjcckcgkcecf)
+### [2. Open Street Map Locator](https://pratikchauhan14.github.io/open-street-map-locator/)  
+A **web-based interactive map** built with **JavaScript and Leaflet.js** to visualize and filter location data easily.  
+
+**Features:**  
+- Fully interactive map with dynamic sidebar listing  
+- Advanced real-time filters (select, radio, checkbox)  
+- Click-to-pan and highlight functionality  
+- Customizable list and popup templates  
+- Auto-fitting map bounds for filtered results  
+- Reset filters with one button click  
+- Dark mode support and responsive design  
+
+[Live Demo](https://pratikchauhan14.github.io/open-street-map-locator/)  
+
+
+### [3. HS Toolkit Chrome Extension](https://chrome.google.com/webstore/detail/hs-toolkit/adbgdmoblkaglinaodfjjjcckcgkcecf)
 **HS Toolkit** is a Chrome extension for HubSpot that helps developers work faster and more efficiently.  
 
 **Features:**
@@ -52,7 +67,7 @@ A modular, web-based **canvas editor** built with Fabric.js and TypeScript that 
 
 [Chrome Web Store Link](https://chrome.google.com/webstore/detail/hs-toolkit/adbgdmoblkaglinaodfjjjcckcgkcecf)
 
-### [HTML + HubL Formatter](https://pratikchauhan14.github.io/hubl-html-cleaner/)  
+### [4. HTML + HubL Formatter](https://pratikchauhan14.github.io/hubl-html-cleaner/)  
 A web-based tool to **format and clean HTML and HubL code** for HubSpot CMS.  
 
 **Features:**
@@ -60,7 +75,7 @@ A web-based tool to **format and clean HTML and HubL code** for HubSpot CMS.
 - Supports inline HubL expressions and blocks  
 - Clean, readable output for HubSpot templates  
 
-### [HubSpot Step Form](https://pratikchauhan14.github.io/step-form/)  
+### [5. HubSpot Step Form](https://pratikchauhan14.github.io/step-form/)  
 A **dynamic multi-step form** built for HubSpot CMS.  
 
 **Features:**
