@@ -84,6 +84,18 @@ A **dynamic multi-step form** built for HubSpot CMS.
 - TailwindCSS styling and fully responsive  
 - Easy integration into HubSpot templates  
 
+### [6. HubSpot Dynamic Pricing Calculator](https://pratikchauhan14.github.io/hubspot-dynamic-pricing-calculator/)  
+An **interactive SaaS pricing** calculator module for HubSpot CMS powered by **HubDB**.
+
+**Features:**
+-	Multi-currency and multi-package support
+-	Monthly and yearly billing toggle
+-	User-based price calculations
+-	Automatic discount and recommendation logic
+-	Fully dynamic, editable via HubDB tables
+
+[Live Demo](https://pratikchauhan14.github.io/hubspot-dynamic-pricing-calculator/)
+
 
 ### [2CUBE Studio](https://2cube.studio/)  
 Our agency website showcasing **custom HubSpot CMS development services**.  
