@@ -1,6 +1,6 @@
-# 🧩 HubSpot Blog – Load More (AJAX Based)
+# 🧩 HubSpot Blog – Dynamic Blog TOC Menu
 
-Load additional blog posts dynamically without reloading the page using HubSpot’s Blog API or HubL partials.
+Automatically generates a clickable table of contents from your blog headings (H2, H3). Helps readers navigate long articles easily with smooth scrolling and active section highlighting.
 
 ---
 
